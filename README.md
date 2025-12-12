@@ -1,14 +1,14 @@
-<img src="https://github.com/Premchand006/Premchand006/blob/main/Stranger-Things-2-5.gif" alt="Alt text" width="200%" height="50%">
+<img src="https://github.com/Premchand006/Premchand006/blob/main/gif.gif" alt="Alt text" width="200%" height="50%">
 
 
 Hi there 👋 <br> I am Korukonda L K M Prem Chand
 
 - 🎓 Electrical and Computer Engineering @ Amrita Vishwa Vidyapeetham University
+- 😄 Pronouns: He/Him
 - 🔭 Actively working and developing projects
 - 🌱 Research enthusiast
 - 💬 Ask me about myself
 - 📫 How to reach me: Online on Discord, Linkedin and Instagram
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a devil of my kind 
 
 ## 🌐 Socials:
