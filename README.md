@@ -1,3 +1,6 @@
+<img src="https://github.com/Premchand006/Premchand006/blob/main/Stranger-Things-2-5.gif" alt="Alt text" width="200%" height="50%">
+
+
 Hi there 👋 <br> I am Korukonda L K M Prem Chand
 
 - 🎓 Electrical and Computer Engineering @ Amrita Vishwa Vidyapeetham University
