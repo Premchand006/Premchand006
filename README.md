@@ -1,4 +1,4 @@
-<img src="https://github.com/Premchand006/Premchand006/blob/main/COD.jpg" alt="Alt text" width="200%" height="50%">
+<img src="https://github.com/Premchand006/Premchand006/blob/main/COD.jpeg" alt="Alt text" width="200%" height="50%">
 
 <p align="center">
   <a href="mailto:korukonda.lkmpremchand@gmail.com"><img src="https://img.shields.io/badge/Gmail-F25623?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
