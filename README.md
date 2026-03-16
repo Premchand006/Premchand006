@@ -1,4 +1,4 @@
-<img src="https://github.com/Premchand006/Premchand006/blob/main/COD.jpeg" alt="Alt text" width="200%" height="50%">
+<img src="https://github.com/Premchand006/Premchand006/blob/main/COD.png"  width="1100" height="500">
 
 <p align="center">
   <a href="mailto:korukonda.lkmpremchand@gmail.com"><img src="https://img.shields.io/badge/Gmail-F25623?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
@@ -25,3 +25,6 @@ Hi there 👋 <br> I am Korukonda L K M Prem Chand
     <img alt="github-snake" src="https://raw.githubusercontent.com/Premchand006/Premchand006/output/github-snake.svg">
   </picture>
 </div>
+
+
+<img src="https://github.com/Premchand006/Premchand006/blob/main/Batman.jpg" alt="Alt text" width="1000" height="500">
