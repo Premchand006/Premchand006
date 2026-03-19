@@ -72,7 +72,7 @@ const intro = {
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premchand006&layout=compact&bg_color=000000&title_color=B22222&text_color=DDDDDD&icon_color=888888&border_color=ffffff" 
     width="48%" 
-    height="200px"
+    height="190px"
   />
 </p>
 
