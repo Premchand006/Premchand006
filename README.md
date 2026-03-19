@@ -28,7 +28,7 @@ const intro = {
 };
 ```
 </td> 
-<td width="50%" align="center"> <img src="https://github.com/Premchand006/Premchand006/blob/main/COD.png" width="100%" /> </td> </tr> </table> 
+<td width="75%" align="center"> <img src="https://github.com/Premchand006/Premchand006/blob/main/motivation.jpg" width="55%" /> </td> </tr> </table> 
 
 <p align="center">
   <a href="mailto:korukonda.lkmpremchand@gmail.com"><img src="https://img.shields.io/badge/Gmail-F25623?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
@@ -119,5 +119,8 @@ const intro = {
 
 ---
 
-<img src="https://github.com/Premchand006/Premchand006/blob/main/Batman.jpg" alt="Alt text" width="1000" height="500">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=4000&pause=1500&color=8B0000&center=true&vCenter=true&width=900&lines=I+am+vengeance.+I+am+the+night.;It%27s+not+who+I+am+underneath%2C+but+what+I+do+that+defines+me.;The+things+you+own+end+up+owning+you.;We+buy+things+we+don%E2%80%99t+need+to+impress+people+we+don%E2%80%99t+like.;Self-improvement+is+a+drug.+Now+self-destruction..." />
+</p>
 
+<img src="https://github.com/Premchand006/Premchand006/blob/main/Batman.jpg" alt="Alt text" width="1000" height="500">
