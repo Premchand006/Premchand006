@@ -49,9 +49,24 @@ const intro = {
 
 ## GITHUB STATS
 
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Premchand006&theme=dark&background=000000&stroke=444444&ring=B22222&fire=CC4444&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=B22222&sideLabels=888888&dates=777777" 
+    width="48%" 
+    height="200px"
+  />
+  <img 
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Premchand006&layout=compact&theme=dark&title_color=B22222" 
+    width="48%" 
+    height="190px"
+  />
+</p>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premchand006&bg_color=000000&color=DDDDDD&line=B22222&point=D4AF37&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%">
+  <img src="https://komarev.com/ghpvc/?username=Premchand006&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Premchand006?label=Followers&style=for-the-badge&color=red" alt="Followers" />
 </div>
+<br>
 
 <div align="center">
   <picture>
@@ -61,24 +76,13 @@ const intro = {
   </picture>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premchand006&bg_color=000000&color=DDDDDD&line=B22222&point=D4AF37&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%">
+</div>
 <br>
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Premchand006&theme=dark&background=000000&stroke=444444&ring=B22222&fire=CC4444&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=B22222&sideLabels=888888&dates=777777" 
-    width="48%" 
-    height="200px"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premchand006&layout=compact&bg_color=000000&title_color=B22222&text_color=DDDDDD&icon_color=888888&border_color=ffffff" 
-    width="48%" 
-    height="190px"
-  />
-</p>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Premchand006&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Premchand006?label=Followers&style=for-the-badge&color=red" alt="Followers" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="900">
 </div>
 
 
