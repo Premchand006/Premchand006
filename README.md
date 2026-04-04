@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=44&duration=2800&pause=1200&color=B22222&center=true&vCenter=true&width=1000&lines=Welcome+to+my+corner+of+workspace" />
 </p>
 
-<img src="https://github.com/Premchand006/Premchand006/blob/main/COD.png"  width="1100" height="500">
+<img src="https://github.com/Premchand006/Premchand006/blob/main/desk.jpg"  width="1100" height="500">
 
 ---
 
@@ -38,56 +38,19 @@ const intro = {
 </p>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Antonio&size=36&duration=2800&pause=1200&color=B22222&center=true&vCenter=true&width=1000&lines=Technology+Arsenel" />
+</p>
 
-## TECHNOLOGY ARSENAL
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,ts,php,html,css,tailwind,react,nextjs,vite,threejs,flutter,flask,fastapi,graphql,pytorch,tensorflow,postgres,sqlite,firebase,gcp,vercel,docker,git,github,linux,ubuntu,pycharm,vscode,anaconda,arduino,raspberrypi,latex&perline=9&theme=dark">
 </div>
 
 ---
-
-## GITHUB STATS
-
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Premchand006&theme=dark&background=000000&stroke=444444&ring=B22222&fire=CC4444&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=B22222&sideLabels=888888&dates=777777" 
-    width="48%" 
-    height="200px"
-  />
-  <img 
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Premchand006&layout=compact&theme=dark&title_color=B22222" 
-    width="48%" 
-    height="190px"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Antonio&size=36&duration=2800&pause=1200&color=B22222&center=true&vCenter=true&width=1000&lines=Mindset+Roadmap" />
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Premchand006&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Premchand006?label=Followers&style=for-the-badge&color=red" alt="Followers" />
-</div>
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Premchand006/Premchand006/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Premchand006/Premchand006/output/github-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Premchand006/Premchand006/output/github-snake.svg">
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premchand006&bg_color=000000&color=DDDDDD&line=B22222&point=D4AF37&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%">
-</div>
-<br>
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="900">
-</div>
-
-
----
-## MINDSET ROADMAP
 
 <p align="center">
   <table>
@@ -122,9 +85,46 @@ const intro = {
 </p>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Antonio&size=36&duration=2800&pause=1200&color=B22222&center=true&vCenter=true&width=1000&lines=Github+Stats" />
+</p>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=4000&pause=1500&color=8B0000&center=true&vCenter=true&width=900&lines=I+am+vengeance.+I+am+the+night.;It%27s+not+who+I+am+underneath%2C+but+what+I+do+that+defines+me.;The+things+you+own+end+up+owning+you.;We+buy+things+we+don%E2%80%99t+need+to+impress+people+we+don%E2%80%99t+like.;Self-improvement+is+a+drug.+Now+self-destruction..." />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Premchand006&theme=dark&background=000000&stroke=444444&ring=B22222&fire=CC4444&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=B22222&sideLabels=888888&dates=777777" 
+    width="48%" 
+    height="200px"
+  />
+  <img 
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Premchand006&layout=compact&theme=dark&title_color=B22222" 
+    width="45%" 
+    height="180px"
+  />
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Premchand006&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Premchand006?label=Followers&style=for-the-badge&color=red" alt="Followers" />
+</div>
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Premchand006/Premchand006/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Premchand006/Premchand006/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Premchand006/Premchand006/output/github-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premchand006&bg_color=000000&color=DDDDDD&line=B22222&point=D4AF37&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%">
+</div>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono+Bold&size=20&duration=4000&pause=1500&color=8B0000&center=true&vCenter=true&width=900&lines=I+am+vengeance.+I+am+the+night.;It%27s+not+who+I+am+underneath%2C+but+what+I+do+that+defines+me.;The+things+you+own+end+up+owning+you.;We+buy+things+we+don%E2%80%99t+need+to+impress+people+we+don%E2%80%99t+like.;Self-improvement+is+a+drug.+Now+self-destruction..." />
 </p>
 
 <img src="https://github.com/Premchand006/Premchand006/blob/main/Batman.jpg" alt="Alt text" width="1000" height="500">
