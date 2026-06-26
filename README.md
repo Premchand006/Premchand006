@@ -97,9 +97,9 @@ const intro = {
     height="200px"
   />
   <img 
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Premchand006&layout=compact&theme=dark&title_color=B22222" 
-    width="45%" 
-    height="180px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premchand006&layout=compact&theme=dark" 
+    width="48%" 
+    height="193px"
   />
 </p>
 
