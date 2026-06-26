@@ -94,7 +94,7 @@ const intro = {
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Premchand006&theme=dark&background=000000&stroke=444444&ring=B22222&fire=CC4444&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=B22222&sideLabels=888888&dates=777777" 
     width="48%" 
-    height="200px"
+    height="210px"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premchand006&layout=compact&theme=dark" 
