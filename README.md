@@ -99,7 +99,7 @@ const intro = {
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premchand006&layout=compact&theme=dark" 
     width="48%" 
-    height="200px"
+    height="190px"
   />
 </p>
 
