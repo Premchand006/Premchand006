@@ -13,9 +13,8 @@
 ```javascript
 const intro = {
     name: "Korukonda L K M Prem Chand",
-    role: "Field AE AI/ML Intern",
-    company: "SiMa.ai",
-    location: "Bangalore, Karnataka, 🇮🇳",
+    exp: "Ex FAE-AI/ML Intern at SiMa.ai",
+    curr_loc: "Kakinada, AP, 🇮🇳",
     
     education: {
         degree: "B.Tech",
@@ -23,7 +22,7 @@ const intro = {
         course_minor: "Artificial Intelligence and Machine Learning",
         institution: "Amrita Vishwa Vidyapeetham"
     },    
-    interests: ["AI/ML", "Embedded systems", "Data Science", "Full Stack"],
+    interests: ["AI/ML", "Embedded systems", "Data Science", "Networks", "Full Stack"],
     lifePhilosophy: "Try. Fail. Learn. Improve. Repeat."
 };
 ```
