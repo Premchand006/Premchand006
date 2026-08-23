@@ -27,7 +27,7 @@ const intro = {
 };
 ```
 </td> 
-<td width="75%" align="center"> <img src="https://github.com/Premchand006/Premchand006/blob/main/motivation.jpg" width="55%" /> </td> </tr> </table> 
+<td width="75%" align="center"> <img src="https://github.com/Premchand006/Premchand006/blob/main/motivation.jpg" width="60%" /> </td> </tr> </table> 
 
 <p align="center">
   <a href="mailto:korukonda.lkmpremchand@gmail.com"><img src="https://img.shields.io/badge/Gmail-F25623?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
@@ -96,7 +96,7 @@ const intro = {
     height="210px"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premchand006&layout=compact&theme=dark" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Premchand006&layout=compact&theme=dark"
     width="48%" 
     height="180px"
   />
