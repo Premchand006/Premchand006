@@ -27,7 +27,7 @@ const intro = {
 };
 ```
 </td> 
-<td width="75%" align="center"> <img src="https://github.com/Premchand006/Premchand006/blob/main/motivation.jpg" width="60%" /> </td> </tr> </table> 
+<td width="75%" align="center"> <img src="https://github.com/Premchand006/Premchand006/blob/main/motivation.jpg" width="65%" /> </td> </tr> </table> 
 
 <p align="center">
   <a href="mailto:korukonda.lkmpremchand@gmail.com"><img src="https://img.shields.io/badge/Gmail-F25623?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
@@ -89,18 +89,21 @@ const intro = {
 </p>
 
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Premchand006&theme=dark&background=000000&stroke=444444&ring=B22222&fire=CC4444&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=B22222&sideLabels=888888&dates=777777" 
-    width="48%" 
-    height="210px"
-  />
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Premchand006&layout=compact&theme=dark"
-    width="48%" 
-    height="180px"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Premchand006&theme=dark" alt="GitHub Streak" height="195" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Premchand006&layout=compact&theme=dark" alt="Top Languages" height="200" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Premchand006&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile Views" />
