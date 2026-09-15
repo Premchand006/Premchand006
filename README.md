@@ -106,7 +106,7 @@ const intro = {
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Premchand006&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Premchand006&style=flat-square&color=F25623&labelColor=171717&label=PROFILE+VIEWS"/>
   <img src="https://img.shields.io/github/followers/Premchand006?label=Followers&style=for-the-badge&color=red" alt="Followers" />
 </div>
 <br>
