@@ -88,7 +88,6 @@ const intro = {
   <img src="https://readme-typing-svg.demolab.com?font=Antonio&size=36&duration=2800&pause=1200&color=B22222&center=true&vCenter=true&width=1000&lines=Github+Stats" />
 </p>
 
-
 <table align="center">
   <tr>
     <td>
@@ -98,16 +97,14 @@ const intro = {
     </td>
     <td>
       <a href="https://github.com">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Premchand006&layout=compact&theme=dark" alt="Top Languages" height="200" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Premchand006&layout=compact&theme=dark" alt="Top Languages" height="210" />
       </a>
     </td>
   </tr>
 </table>
 
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Premchand006&style=flat-square&color=F25623&labelColor=171717&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/Premchand006?label=Followers&style=for-the-badge&color=red" alt="Followers" />
 </div>
 <br>
 
@@ -120,13 +117,13 @@ const intro = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premchand006&bg_color=000000&color=DDDDDD&line=B22222&point=D4AF37&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%">
+  <img src="https://github.com/Premchand006/Premchand006/blob/main/Premchand006-space-shooter.gif">
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono+Bold&size=20&duration=4000&pause=1500&color=8B0000&center=true&vCenter=true&width=900&lines=I+am+vengeance.+I+am+the+night.;It%27s+not+who+I+am+underneath%2C+but+what+I+do+that+defines+me.;The+things+you+own+end+up+owning+you.;We+buy+things+we+don%E2%80%99t+need+to+impress+people+we+don%E2%80%99t+like.;Self-improvement+is+a+drug.+Now+self-destruction..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=44&duration=4000&pause=1500&color=8B0000&center=true&vCenter=true&width=900&lines=I+am+vengeance.+I+am+the+night.;It%27s+not+who+I+am+underneath%2C+but+what+I+do+that+defines+me.;The+things+you+own+end+up+owning+you.;We+buy+things+we+don%E2%80%99t+need+to+impress+people+we+don%E2%80%99t+like.;Self-improvement+is+a+drug.+Now+self-destruction..." />
 </p>
 
 <img src="https://github.com/Premchand006/Premchand006/blob/main/Batman.jpg" alt="Alt text" width="1000" height="500">
